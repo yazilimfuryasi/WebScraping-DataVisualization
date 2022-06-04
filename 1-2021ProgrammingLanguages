@@ -1,3 +1,5 @@
+## https://yazilimfuryasi.com/python-veri-cekme-ve-gorsellestirme/
+
 from bs4 import BeautifulSoup
 from selenium import webdriver
 import time
